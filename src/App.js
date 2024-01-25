@@ -1,11 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
-import A from './A';
+import Notes from './Notes';
 
 function App() {
   return (
     <>
-      <A/>
+      <Notes/>
     </>
   );
 }
